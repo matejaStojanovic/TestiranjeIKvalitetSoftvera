@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{C68A1B9D-7845-46B2-A1D2-26D2DFBE2D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionNow.Api", "server\TransactionNow.Api\TransactionNow.Api.csproj", "{6AE6E337-CA68-4076-B6C7-5EB862B89F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionNow.Application", "server\TransactionNow.Application\TransactionNow.Application.csproj", "{1A381D4B-8B3F-476E-AF57-11495FAC07B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionNow.Domain", "server\TransactionNow.Domain\TransactionNow.Domain.csproj", "{0847A45F-7B2F-406C-80F4-6AF7D1741AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionNow.Infrastructure", "server\TransactionNow.Infrastructure\TransactionNow.Infrastructure.csproj", "{0E4498CE-7A45-4CE5-9929-409B26ACD5E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionNow.Tests", "TransactionNow.Tests\TransactionNow.Tests.csproj", "{07C52DD7-0C57-4353-B6DE-04C23459EA91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionNow.PlaywrightTests", "TransactionNow.PlaywrightTests\TransactionNow.PlaywrightTests.csproj", "{3DCBC529-C991-49DA-B7F5-F1E72C25782E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE6E337-CA68-4076-B6C7-5EB862B89F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE6E337-CA68-4076-B6C7-5EB862B89F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE6E337-CA68-4076-B6C7-5EB862B89F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE6E337-CA68-4076-B6C7-5EB862B89F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A381D4B-8B3F-476E-AF57-11495FAC07B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A381D4B-8B3F-476E-AF57-11495FAC07B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A381D4B-8B3F-476E-AF57-11495FAC07B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A381D4B-8B3F-476E-AF57-11495FAC07B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0847A45F-7B2F-406C-80F4-6AF7D1741AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0847A45F-7B2F-406C-80F4-6AF7D1741AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0847A45F-7B2F-406C-80F4-6AF7D1741AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0847A45F-7B2F-406C-80F4-6AF7D1741AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4498CE-7A45-4CE5-9929-409B26ACD5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4498CE-7A45-4CE5-9929-409B26ACD5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4498CE-7A45-4CE5-9929-409B26ACD5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4498CE-7A45-4CE5-9929-409B26ACD5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C52DD7-0C57-4353-B6DE-04C23459EA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C52DD7-0C57-4353-B6DE-04C23459EA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C52DD7-0C57-4353-B6DE-04C23459EA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C52DD7-0C57-4353-B6DE-04C23459EA91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCBC529-C991-49DA-B7F5-F1E72C25782E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCBC529-C991-49DA-B7F5-F1E72C25782E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCBC529-C991-49DA-B7F5-F1E72C25782E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCBC529-C991-49DA-B7F5-F1E72C25782E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6AE6E337-CA68-4076-B6C7-5EB862B89F1C} = {C68A1B9D-7845-46B2-A1D2-26D2DFBE2D9B}
+		{1A381D4B-8B3F-476E-AF57-11495FAC07B2} = {C68A1B9D-7845-46B2-A1D2-26D2DFBE2D9B}
+		{0847A45F-7B2F-406C-80F4-6AF7D1741AAD} = {C68A1B9D-7845-46B2-A1D2-26D2DFBE2D9B}
+		{0E4498CE-7A45-4CE5-9929-409B26ACD5E0} = {C68A1B9D-7845-46B2-A1D2-26D2DFBE2D9B}
+	EndGlobalSection
+EndGlobal

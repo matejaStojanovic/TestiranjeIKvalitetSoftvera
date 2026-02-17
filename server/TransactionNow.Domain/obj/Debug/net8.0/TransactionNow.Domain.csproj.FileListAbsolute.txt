@@ -1,0 +1,11 @@
+D:\TransactionNow\server\TransactionNow.Domain\bin\Debug\net8.0\TransactionNow.Domain.deps.json
+D:\TransactionNow\server\TransactionNow.Domain\bin\Debug\net8.0\TransactionNow.Domain.dll
+D:\TransactionNow\server\TransactionNow.Domain\bin\Debug\net8.0\TransactionNow.Domain.pdb
+D:\TransactionNow\server\TransactionNow.Domain\obj\Debug\net8.0\TransactionNow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TransactionNow\server\TransactionNow.Domain\obj\Debug\net8.0\TransactionNow.Domain.AssemblyInfoInputs.cache
+D:\TransactionNow\server\TransactionNow.Domain\obj\Debug\net8.0\TransactionNow.Domain.AssemblyInfo.cs
+D:\TransactionNow\server\TransactionNow.Domain\obj\Debug\net8.0\TransactionNow.Domain.csproj.CoreCompileInputs.cache
+D:\TransactionNow\server\TransactionNow.Domain\obj\Debug\net8.0\TransactionNow.Domain.dll
+D:\TransactionNow\server\TransactionNow.Domain\obj\Debug\net8.0\refint\TransactionNow.Domain.dll
+D:\TransactionNow\server\TransactionNow.Domain\obj\Debug\net8.0\TransactionNow.Domain.pdb
+D:\TransactionNow\server\TransactionNow.Domain\obj\Debug\net8.0\ref\TransactionNow.Domain.dll

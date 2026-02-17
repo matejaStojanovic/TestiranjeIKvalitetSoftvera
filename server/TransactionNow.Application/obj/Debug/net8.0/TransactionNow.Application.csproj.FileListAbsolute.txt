@@ -1,0 +1,15 @@
+D:\TransactionNow\server\TransactionNow.Application\bin\Debug\net8.0\TransactionNow.Application.deps.json
+D:\TransactionNow\server\TransactionNow.Application\bin\Debug\net8.0\TransactionNow.Application.dll
+D:\TransactionNow\server\TransactionNow.Application\bin\Debug\net8.0\TransactionNow.Application.pdb
+D:\TransactionNow\server\TransactionNow.Application\bin\Debug\net8.0\TransactionNow.Domain.dll
+D:\TransactionNow\server\TransactionNow.Application\bin\Debug\net8.0\TransactionNow.Domain.pdb
+D:\TransactionNow\server\TransactionNow.Application\obj\Debug\net8.0\TransactionNow.Application.csproj.AssemblyReference.cache
+D:\TransactionNow\server\TransactionNow.Application\obj\Debug\net8.0\TransactionNow.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\TransactionNow\server\TransactionNow.Application\obj\Debug\net8.0\TransactionNow.Application.AssemblyInfoInputs.cache
+D:\TransactionNow\server\TransactionNow.Application\obj\Debug\net8.0\TransactionNow.Application.AssemblyInfo.cs
+D:\TransactionNow\server\TransactionNow.Application\obj\Debug\net8.0\TransactionNow.Application.csproj.CoreCompileInputs.cache
+D:\TransactionNow\server\TransactionNow.Application\obj\Debug\net8.0\Transact.E3984814.Up2Date
+D:\TransactionNow\server\TransactionNow.Application\obj\Debug\net8.0\TransactionNow.Application.dll
+D:\TransactionNow\server\TransactionNow.Application\obj\Debug\net8.0\refint\TransactionNow.Application.dll
+D:\TransactionNow\server\TransactionNow.Application\obj\Debug\net8.0\TransactionNow.Application.pdb
+D:\TransactionNow\server\TransactionNow.Application\obj\Debug\net8.0\ref\TransactionNow.Application.dll

@@ -1,0 +1,17 @@
+D:\TransactionNow\server\TransactionNow.Infrastructure\bin\Debug\net8.0\TransactionNow.Infrastructure.deps.json
+D:\TransactionNow\server\TransactionNow.Infrastructure\bin\Debug\net8.0\TransactionNow.Infrastructure.dll
+D:\TransactionNow\server\TransactionNow.Infrastructure\bin\Debug\net8.0\TransactionNow.Infrastructure.pdb
+D:\TransactionNow\server\TransactionNow.Infrastructure\bin\Debug\net8.0\TransactionNow.Application.dll
+D:\TransactionNow\server\TransactionNow.Infrastructure\bin\Debug\net8.0\TransactionNow.Domain.dll
+D:\TransactionNow\server\TransactionNow.Infrastructure\bin\Debug\net8.0\TransactionNow.Domain.pdb
+D:\TransactionNow\server\TransactionNow.Infrastructure\bin\Debug\net8.0\TransactionNow.Application.pdb
+D:\TransactionNow\server\TransactionNow.Infrastructure\obj\Debug\net8.0\TransactionNow.Infrastructure.csproj.AssemblyReference.cache
+D:\TransactionNow\server\TransactionNow.Infrastructure\obj\Debug\net8.0\TransactionNow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TransactionNow\server\TransactionNow.Infrastructure\obj\Debug\net8.0\TransactionNow.Infrastructure.AssemblyInfoInputs.cache
+D:\TransactionNow\server\TransactionNow.Infrastructure\obj\Debug\net8.0\TransactionNow.Infrastructure.AssemblyInfo.cs
+D:\TransactionNow\server\TransactionNow.Infrastructure\obj\Debug\net8.0\TransactionNow.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TransactionNow\server\TransactionNow.Infrastructure\obj\Debug\net8.0\Transact.11690CF3.Up2Date
+D:\TransactionNow\server\TransactionNow.Infrastructure\obj\Debug\net8.0\TransactionNow.Infrastructure.dll
+D:\TransactionNow\server\TransactionNow.Infrastructure\obj\Debug\net8.0\refint\TransactionNow.Infrastructure.dll
+D:\TransactionNow\server\TransactionNow.Infrastructure\obj\Debug\net8.0\TransactionNow.Infrastructure.pdb
+D:\TransactionNow\server\TransactionNow.Infrastructure\obj\Debug\net8.0\ref\TransactionNow.Infrastructure.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c5PSh8khLhthCD+TbcYqoaMLW1kzc5Hdujq0SRyyyB0=",
+  "Source": "TransactionNow.Api",
+  "BasePath": "_content/TransactionNow.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

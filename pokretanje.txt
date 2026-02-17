@@ -1,0 +1,5 @@
+docker compose up -d
+dotnet run --project server/TransactionNow.Api
+
+cd transactionnow-client
+npm start
