@@ -8,9 +8,9 @@ public static class DatabaseSeeder
 {
     public static void Seed(MongoContext context)
     {
-        SeedUserWithCards(context, "Admin", "User", "admin@test.com", 10000000);
-        SeedUserWithCards(context, "Marko", "Markovic", "user1@test.com", 5000000);
-        SeedUserWithCards(context, "Ana", "Anic", "user2@test.com", 3000000);
+        SeedUserWithCards(context, "Admin", "User", "admin@test.com", 1000000);
+        SeedUserWithCards(context, "Marko", "Markovic", "user1@test.com", 500000);
+        SeedUserWithCards(context, "Ana", "Anic", "user2@test.com", 300000);
     }
 
     private static void SeedUserWithCards(

@@ -24,7 +24,7 @@ public class InvoiceWorkflowTest : BaseTest
     {
         int invoice1 = 200;
         int invoice2 = 400;
-        long hugeInvoice = 999999999999999999;
+        int hugeInvoice = 999999999;
 
 
         await _page.GetByRole(AriaRole.Textbox, new() { Name = "Email" })
